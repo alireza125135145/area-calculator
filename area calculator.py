@@ -1,3 +1,4 @@
+#debug on github
 def get_func(shape,size1=0,size2=0):
     if shape=='square':
         return size1*size1        #caculate  area of square
